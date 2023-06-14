@@ -1,0 +1,105 @@
+﻿@{
+    ViewData["Title"] = "_SideNavPartialView";
+
+}
+
+<div class="side-nav">
+    <div class="side-nav-inner">
+        <ul class="side-nav-menu scrollable">
+            <li class="nav-item open">
+                <a class="dropdown-toggle" asp-area="Admin" asp-controller="Home" asp-action="Index">
+                    <span class="icon-holder">
+                        <i class="anticon anticon-dashboard"></i>
+                    </span>
+                    <span class="title">Home</span>
+                </a>
+            </li>
+            <li class="nav-item dropdown">
+                <a class="dropdown-toggle" asp-area="Admin" asp-controller="AdminBill" asp-action="Index">
+                    <span class="icon-holder">
+                        <i class="anticon anticon-appstore"></i>
+                    </span>
+                    <span class="title">Quản Lý Hóa Đơn</span>
+
+                </a>
+
+            </li>
+            <li class="nav-item dropdown">
+                <a class="dropdown-toggle" href="javascript:void(0);">
+                    <span class="icon-holder">
+                        <i class="anticon anticon-table"></i>
+                    </span>
+                    <span class="title">Quản lý sản phẩm</span>
+                    <span class="arrow">
+                        <i class="arrow-icon"></i>
+                    </span>
+                </a>
+                <ul class="dropdown-menu">
+                    <li>
+                        <a asp-area="Admin" asp-controller="GiamGia" asp-action="Index">Mã giảm giá</a>
+                    </li>
+                    <li>
+                        <a asp-area="Admin" asp-controller="NhaSansXuats" asp-action="Index">Nhà sản xuất</a>
+                    </li>
+                    <li>
+                        <a asp-area="Admin" asp-controller="MauSac" asp-action="Index">Màu Sắc</a>
+
+                    </li>
+                    <li>
+                        <a asp-area="Admin" asp-controller="ListAnh" asp-action="Index">Them anh</a>
+                    </li>
+                    <li>
+                        <a asp-area="Admin" asp-controller="ThongTinSanPham" asp-action="Index">Thong Tin San Pham</a>
+                    </li>
+                    <li>
+                        <a asp-area="Admin" asp-controller="SanPham" asp-action="Index">San Pham</a>
+                    </li>
+                    <li>
+                        <a asp-area="Admin" asp-controller="Imei" asp-action="Index">Them moi dien thoai</a>
+                    </li>
+                </ul>
+            </li>
+            <li class="nav-item dropdown">
+                <a class="dropdown-toggle" asp-area="Admin" asp-controller="AdminRole" asp-action="Index">
+                    <span class="icon-holder">
+                        <i class="anticon anticon-hdd"></i>
+                    </span>
+                    <span class="title">Quản Lý Chuc Vu</span>
+
+                </a>
+            </li>
+            <li class="nav-item dropdown">
+                <a class="dropdown-toggle" href="javascript:void(0);">
+                    <span class="icon-holder">
+                        <i class="anticon anticon-form"></i>
+                    </span>
+                    <span class="title">Doanh Số</span>
+                    <span class="arrow">
+                        <i class="arrow-icon"></i>
+                    </span>
+                </a>
+
+            </li>
+            <li class="nav-item dropdown">
+                <a class="dropdown-toggle" href="javascript:void(0);">
+                    <span class="icon-holder">
+                        <i class="anticon anticon-table"></i>
+                    </span>
+                    <span class="title">Hệ thống</span>
+                    <span class="arrow">
+                        <i class="arrow-icon"></i>
+                    </span>
+                </a>
+                <ul class="dropdown-menu">
+                    <li>
+                        <a href="basic-table.html">Basic Table</a>
+                    </li>
+                    <li>
+                        <a href="data-table.html">Data Table</a>
+                    </li>
+                </ul>
+            </li>
+
+        </ul>
+    </div>
+</div>

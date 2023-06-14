@@ -1,0 +1,237 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Assgment_Nhom3_WebBanDienThoai
+build_property.RootNamespace = Assgment_Nhom3_WebBanDienThoai
+build_property.ProjectDir = C:\Users\ADMIN\Downloads\XinDay - Copy\XinDay - Copy\XinDay - Copy\Assgment_Nhom3_WebBanDienThoai\Assgment_Nhom3_WebBanDienThoai\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\ADMIN\Downloads\XinDay - Copy\XinDay - Copy\XinDay - Copy\Assgment_Nhom3_WebBanDienThoai\Assgment_Nhom3_WebBanDienThoai
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/ADMIN/Downloads/XinDay - Copy/XinDay - Copy/XinDay - Copy/Assgment_Nhom3_WebBanDienThoai/Assgment_Nhom3_WebBanDienThoai/Areas/Admin/Views/ChatLieu/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2hhdExpZXVcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/Downloads/XinDay - Copy/XinDay - Copy/XinDay - Copy/Assgment_Nhom3_WebBanDienThoai/Assgment_Nhom3_WebBanDienThoai/Areas/Admin/Views/ChatLieu/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2hhdExpZXVcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/Downloads/XinDay - Copy/XinDay - Copy/XinDay - Copy/Assgment_Nhom3_WebBanDienThoai/Assgment_Nhom3_WebBanDienThoai/Areas/Admin/Views/ChatLieu/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2hhdExpZXVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/Downloads/XinDay - Copy/XinDay - Copy/XinDay - Copy/Assgment_Nhom3_WebBanDienThoai/Assgment_Nhom3_WebBanDienThoai/Areas/Admin/Views/ChatLieu/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2hhdExpZXVcVXBkYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/Downloads/XinDay - Copy/XinDay - Copy/XinDay - Copy/Assgment_Nhom3_WebBanDienThoai/Assgment_Nhom3_WebBanDienThoai/Areas/Admin/Views/ChipCPU/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2hpcENQVVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/Downloads/XinDay - Copy/XinDay - Copy/XinDay - Copy/Assgment_Nhom3_WebBanDienThoai/Assgment_Nhom3_WebBanDienThoai/Areas/Admin/Views/ChipCPU/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2hpcENQVVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/Downloads/XinDay - Copy/XinDay - Copy/XinDay - Copy/Assgment_Nhom3_WebBanDienThoai/Assgment_Nhom3_WebBanDienThoai/Areas/Admin/Views/ChipCPU/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2hpcENQVVxVcGRhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/Downloads/XinDay - Copy/XinDay - Copy/XinDay - Copy/Assgment_Nhom3_WebBanDienThoai/Assgment_Nhom3_WebBanDienThoai/Areas/Admin/Views/ChipGPU/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2hpcEdQVVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/Downloads/XinDay - Copy/XinDay - Copy/XinDay - Copy/Assgment_Nhom3_WebBanDienThoai/Assgment_Nhom3_WebBanDienThoai/Areas/Admin/Views/ChipGPU/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2hpcEdQVVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/Downloads/XinDay - Copy/XinDay - Copy/XinDay - Copy/Assgment_Nhom3_WebBanDienThoai/Assgment_Nhom3_WebBanDienThoai/Areas/Admin/Views/ChipGPU/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2hpcEdQVVxVcGRhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/Downloads/XinDay - Copy/XinDay - Copy/XinDay - Copy/Assgment_Nhom3_WebBanDienThoai/Assgment_Nhom3_WebBanDienThoai/Areas/Admin/Views/GiamGia/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcR2lhbUdpYVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/Downloads/XinDay - Copy/XinDay - Copy/XinDay - Copy/Assgment_Nhom3_WebBanDienThoai/Assgment_Nhom3_WebBanDienThoai/Areas/Admin/Views/GiamGia/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcR2lhbUdpYVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/Downloads/XinDay - Copy/XinDay - Copy/XinDay - Copy/Assgment_Nhom3_WebBanDienThoai/Assgment_Nhom3_WebBanDienThoai/Areas/Admin/Views/GiamGia/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcR2lhbUdpYVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/Downloads/XinDay - Copy/XinDay - Copy/XinDay - Copy/Assgment_Nhom3_WebBanDienThoai/Assgment_Nhom3_WebBanDienThoai/Areas/Admin/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/Downloads/XinDay - Copy/XinDay - Copy/XinDay - Copy/Assgment_Nhom3_WebBanDienThoai/Assgment_Nhom3_WebBanDienThoai/Areas/Admin/Views/Imei/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSW1laVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/Downloads/XinDay - Copy/XinDay - Copy/XinDay - Copy/Assgment_Nhom3_WebBanDienThoai/Assgment_Nhom3_WebBanDienThoai/Areas/Admin/Views/Imei/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSW1laVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/Downloads/XinDay - Copy/XinDay - Copy/XinDay - Copy/Assgment_Nhom3_WebBanDienThoai/Assgment_Nhom3_WebBanDienThoai/Areas/Admin/Views/ListAnh/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTGlzdEFuaFxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/Downloads/XinDay - Copy/XinDay - Copy/XinDay - Copy/Assgment_Nhom3_WebBanDienThoai/Assgment_Nhom3_WebBanDienThoai/Areas/Admin/Views/ListAnh/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTGlzdEFuaFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/Downloads/XinDay - Copy/XinDay - Copy/XinDay - Copy/Assgment_Nhom3_WebBanDienThoai/Assgment_Nhom3_WebBanDienThoai/Areas/Admin/Views/MauSac/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTWF1U2FjXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/Downloads/XinDay - Copy/XinDay - Copy/XinDay - Copy/Assgment_Nhom3_WebBanDienThoai/Assgment_Nhom3_WebBanDienThoai/Areas/Admin/Views/MauSac/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTWF1U2FjXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/Downloads/XinDay - Copy/XinDay - Copy/XinDay - Copy/Assgment_Nhom3_WebBanDienThoai/Assgment_Nhom3_WebBanDienThoai/Areas/Admin/Views/MauSac/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTWF1U2FjXFVwZGF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/Downloads/XinDay - Copy/XinDay - Copy/XinDay - Copy/Assgment_Nhom3_WebBanDienThoai/Assgment_Nhom3_WebBanDienThoai/Areas/Admin/Views/NhaSansXuats/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTmhhU2Fuc1h1YXRzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/Downloads/XinDay - Copy/XinDay - Copy/XinDay - Copy/Assgment_Nhom3_WebBanDienThoai/Assgment_Nhom3_WebBanDienThoai/Areas/Admin/Views/NhaSansXuats/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTmhhU2Fuc1h1YXRzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/Downloads/XinDay - Copy/XinDay - Copy/XinDay - Copy/Assgment_Nhom3_WebBanDienThoai/Assgment_Nhom3_WebBanDienThoai/Areas/Admin/Views/NhaSansXuats/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTmhhU2Fuc1h1YXRzXFVwZGF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/Downloads/XinDay - Copy/XinDay - Copy/XinDay - Copy/Assgment_Nhom3_WebBanDienThoai/Assgment_Nhom3_WebBanDienThoai/Areas/Admin/Views/SanPham/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2FuUGhhbVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/Downloads/XinDay - Copy/XinDay - Copy/XinDay - Copy/Assgment_Nhom3_WebBanDienThoai/Assgment_Nhom3_WebBanDienThoai/Areas/Admin/Views/SanPham/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2FuUGhhbVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/Downloads/XinDay - Copy/XinDay - Copy/XinDay - Copy/Assgment_Nhom3_WebBanDienThoai/Assgment_Nhom3_WebBanDienThoai/Areas/Admin/Views/SanPham/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2FuUGhhbVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/Downloads/XinDay - Copy/XinDay - Copy/XinDay - Copy/Assgment_Nhom3_WebBanDienThoai/Assgment_Nhom3_WebBanDienThoai/Areas/Admin/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/Downloads/XinDay - Copy/XinDay - Copy/XinDay - Copy/Assgment_Nhom3_WebBanDienThoai/Assgment_Nhom3_WebBanDienThoai/Areas/Admin/Views/Shared/_SideNavPartialView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9TaWRlTmF2UGFydGlhbFZpZXcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/Downloads/XinDay - Copy/XinDay - Copy/XinDay - Copy/Assgment_Nhom3_WebBanDienThoai/Assgment_Nhom3_WebBanDienThoai/Areas/Admin/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/Downloads/XinDay - Copy/XinDay - Copy/XinDay - Copy/Assgment_Nhom3_WebBanDienThoai/Assgment_Nhom3_WebBanDienThoai/Areas/Admin/Views/ThongTinSanPham/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVGhvbmdUaW5TYW5QaGFtXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/Downloads/XinDay - Copy/XinDay - Copy/XinDay - Copy/Assgment_Nhom3_WebBanDienThoai/Assgment_Nhom3_WebBanDienThoai/Areas/Admin/Views/ThongTinSanPham/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVGhvbmdUaW5TYW5QaGFtXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/Downloads/XinDay - Copy/XinDay - Copy/XinDay - Copy/Assgment_Nhom3_WebBanDienThoai/Assgment_Nhom3_WebBanDienThoai/Areas/Admin/Views/ThongTinSanPham/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVGhvbmdUaW5TYW5QaGFtXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/Downloads/XinDay - Copy/XinDay - Copy/XinDay - Copy/Assgment_Nhom3_WebBanDienThoai/Assgment_Nhom3_WebBanDienThoai/Areas/Admin/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/Downloads/XinDay - Copy/XinDay - Copy/XinDay - Copy/Assgment_Nhom3_WebBanDienThoai/Assgment_Nhom3_WebBanDienThoai/Areas/Admin/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/Downloads/XinDay - Copy/XinDay - Copy/XinDay - Copy/Assgment_Nhom3_WebBanDienThoai/Assgment_Nhom3_WebBanDienThoai/Views/Cart/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/Downloads/XinDay - Copy/XinDay - Copy/XinDay - Copy/Assgment_Nhom3_WebBanDienThoai/Assgment_Nhom3_WebBanDienThoai/Views/CheckOut/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hlY2tPdXRcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/Downloads/XinDay - Copy/XinDay - Copy/XinDay - Copy/Assgment_Nhom3_WebBanDienThoai/Assgment_Nhom3_WebBanDienThoai/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/Downloads/XinDay - Copy/XinDay - Copy/XinDay - Copy/Assgment_Nhom3_WebBanDienThoai/Assgment_Nhom3_WebBanDienThoai/Views/Home/PhoneDetail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQaG9uZURldGFpbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/Downloads/XinDay - Copy/XinDay - Copy/XinDay - Copy/Assgment_Nhom3_WebBanDienThoai/Assgment_Nhom3_WebBanDienThoai/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/Downloads/XinDay - Copy/XinDay - Copy/XinDay - Copy/Assgment_Nhom3_WebBanDienThoai/Assgment_Nhom3_WebBanDienThoai/Views/Home/showcart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxzaG93Y2FydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/Downloads/XinDay - Copy/XinDay - Copy/XinDay - Copy/Assgment_Nhom3_WebBanDienThoai/Assgment_Nhom3_WebBanDienThoai/Views/Home/showcartCartdetal.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxzaG93Y2FydENhcnRkZXRhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/Downloads/XinDay - Copy/XinDay - Copy/XinDay - Copy/Assgment_Nhom3_WebBanDienThoai/Assgment_Nhom3_WebBanDienThoai/Views/Home/ShowPhone.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTaG93UGhvbmUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/Downloads/XinDay - Copy/XinDay - Copy/XinDay - Copy/Assgment_Nhom3_WebBanDienThoai/Assgment_Nhom3_WebBanDienThoai/Views/Home/TimKiem.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxUaW1LaWVtLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/Downloads/XinDay - Copy/XinDay - Copy/XinDay - Copy/Assgment_Nhom3_WebBanDienThoai/Assgment_Nhom3_WebBanDienThoai/Views/Login/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/Downloads/XinDay - Copy/XinDay - Copy/XinDay - Copy/Assgment_Nhom3_WebBanDienThoai/Assgment_Nhom3_WebBanDienThoai/Views/Login/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cTG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/Downloads/XinDay - Copy/XinDay - Copy/XinDay - Copy/Assgment_Nhom3_WebBanDienThoai/Assgment_Nhom3_WebBanDienThoai/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/Downloads/XinDay - Copy/XinDay - Copy/XinDay - Copy/Assgment_Nhom3_WebBanDienThoai/Assgment_Nhom3_WebBanDienThoai/Views/Shared/_FooterPartialView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Gb290ZXJQYXJ0aWFsVmlldy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/Downloads/XinDay - Copy/XinDay - Copy/XinDay - Copy/Assgment_Nhom3_WebBanDienThoai/Assgment_Nhom3_WebBanDienThoai/Views/Shared/_HeaderPartialView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9IZWFkZXJQYXJ0aWFsVmlldy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/Downloads/XinDay - Copy/XinDay - Copy/XinDay - Copy/Assgment_Nhom3_WebBanDienThoai/Assgment_Nhom3_WebBanDienThoai/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/Downloads/XinDay - Copy/XinDay - Copy/XinDay - Copy/Assgment_Nhom3_WebBanDienThoai/Assgment_Nhom3_WebBanDienThoai/Views/Ship/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hpcFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/Downloads/XinDay - Copy/XinDay - Copy/XinDay - Copy/Assgment_Nhom3_WebBanDienThoai/Assgment_Nhom3_WebBanDienThoai/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/Downloads/XinDay - Copy/XinDay - Copy/XinDay - Copy/Assgment_Nhom3_WebBanDienThoai/Assgment_Nhom3_WebBanDienThoai/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/Downloads/XinDay - Copy/XinDay - Copy/XinDay - Copy/Assgment_Nhom3_WebBanDienThoai/Assgment_Nhom3_WebBanDienThoai/Areas/Admin/Views/Shared/_AdminLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9BZG1pbkxheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = b-kucnnz52be
+
+[C:/Users/ADMIN/Downloads/XinDay - Copy/XinDay - Copy/XinDay - Copy/Assgment_Nhom3_WebBanDienThoai/Assgment_Nhom3_WebBanDienThoai/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-s18nbfqqak

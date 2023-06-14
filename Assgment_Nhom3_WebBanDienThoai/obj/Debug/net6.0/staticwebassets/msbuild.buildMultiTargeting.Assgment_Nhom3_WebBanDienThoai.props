@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Assgment_Nhom3_WebBanDienThoai.props" />
+</Project>

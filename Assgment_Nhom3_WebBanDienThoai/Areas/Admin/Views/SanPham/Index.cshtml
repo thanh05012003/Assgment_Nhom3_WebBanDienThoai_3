@@ -1,0 +1,81 @@
+﻿@model IEnumerable<Assgment_Nhom3_WebBanDienThoai.Models.SanPham>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Areas/Admin/Views/Shared/_AdminLayout.cshtml";
+    //List<string> extensions = new List<string>()
+    //{
+    //    ".png", ".jpg", ".jpeg", ".gif", ".pdf", ".raw", ".bmp", ".tif"
+    //};
+
+}
+
+<h1>Sản phẩm</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Id)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TenSp)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.MoTa)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Anh)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.IdHsx)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+            ShoppingDbContext dbContext = new ShoppingDbContext();
+            var tennsx = dbContext.NhaSanXuats.FirstOrDefault(p => p.Id == item.IdHsx).Ten;
+            <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Id)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TenSp)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.MoTa)
+            </td>
+            <td>
+                    @*<img src="@ViewBag.domain@item.Anh" width="100">*@
+                    @*@{
+                        string a = System.IO.Path.GetExtension(item.Anh);
+                    }
+                    @if (@extensions.Contains(System.IO.Path.GetExtension(item.Anh).Trim()))
+                    {
+                        <img src="/img/@item.Anh" height="100">
+                    }
+                    else
+                    {
+
+
+                        <span>Ảnh lỗi rồi =)))</span>
+                    }*@
+                    <img src="@Url.Content(item.Anh)" alt="Hình ảnh" style="width:50px">
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => tennsx)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new {  id=item.Id }) |
+                @Html.ActionLink("Details", "Details", new {  id=item.Id }) |
+                @Html.ActionLink("Delete", "Delete", new {  id=item.Id })
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

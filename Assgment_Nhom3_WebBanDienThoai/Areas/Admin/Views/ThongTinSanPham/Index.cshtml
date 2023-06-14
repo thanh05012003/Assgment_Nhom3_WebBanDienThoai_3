@@ -1,0 +1,94 @@
+﻿@model IEnumerable<Assgment_Nhom3_WebBanDienThoai.Models.ChiTietSanPham>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Areas/Admin/Views/Shared/_AdminLayout.cshtml";
+
+}
+
+<h1>Thông tin</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>
+                <p>Ten san pham</p>
+            </th>
+            <th>
+                <p>Bo nho trong</p>
+            </th>
+            <th>
+                <p>He dieu hanh</p>
+            </th>
+            
+            <th>
+                <p>Pin</p>
+            </th>
+            
+            <th>
+                <p>Ram</p>
+            </th>
+            
+            <th>
+                <p>Mau sac</p>
+            </th>
+            
+            <th>
+                <p>Don gia</p>
+            </th>
+            <th>
+                <p>Trang thai</p>
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+
+            ShoppingDbContext dbContext = new ShoppingDbContext();
+            var tensp = dbContext.SanPhams.FirstOrDefault(p => p.Id == item.IdSanPham).TenSp;
+            var tenBnt = dbContext.BoNhoTrongs.FirstOrDefault(p => p.Id == item.IdBoNhoTrong).Ten;
+            var tenHdh = dbContext.HeDieuHanhs.FirstOrDefault(p => p.Id == item.IdHeDieuHanh).Ten;
+            var tenPin = dbContext.Pins.FirstOrDefault(p => p.Id == item.IdPin).Ten;
+            var tenRam = dbContext.Rams.FirstOrDefault(p => p.Id == item.IdRam).Ten;
+            var tenMau = dbContext.MauSacs.FirstOrDefault(p => p.Id == item.IdMauSac).Ten;
+
+            <tr>
+            <td>
+                    @Html.DisplayFor(modelItem => tensp)
+            </td>
+            <td>
+                    @Html.DisplayFor(modelItem => tenBnt)
+            </td>
+            <td>
+                    @Html.DisplayFor(modelItem => tenHdh)
+            </td>
+            
+            <td>
+                    @Html.DisplayFor(modelItem => tenPin)
+            </td>
+           
+            <td>
+                    @Html.DisplayFor(modelItem => tenRam)
+            </td>
+            <td>
+                    @Html.DisplayFor(modelItem => tenMau)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DonGia)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TrangThai)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new {  id=item.Id }) |
+                @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) |
+                @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
