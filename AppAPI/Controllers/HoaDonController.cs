@@ -28,7 +28,7 @@ public class HoaDonController : ControllerBase
 
     // GET api/<ValuesController>/5
     [HttpPost("Create-HoaDon")]
-    public bool CreateHoaDon(DateTime NgayTao, DateTime NgayThanhToan, string? HoVaTen, int? SDT, string? DiaChi,
+    public bool CreateHoaDon(DateTime NgayTao, DateTime NgayThanhToan, string? HoVaTen, string SDT, string? DiaChi,
         decimal? TongTien, int TrangThai, Guid IdThanhToan, Guid IdTaiKhoan)
     {
         var hoaDon = new HoaDon();
@@ -54,7 +54,7 @@ public class HoaDonController : ControllerBase
 
     // PUT api/<ValuesController>/5
     [HttpPut("Update-HoaDon-{id}")]
-    public bool Put(Guid id, DateTime NgayTao, DateTime NgayThanhToan, string? HoVaTen, int? SDT, string? DiaChi,
+    public bool Put(Guid id, DateTime NgayTao, DateTime NgayThanhToan, string? HoVaTen, string SDT, string? DiaChi,
         decimal? TongTien, int TrangThai, Guid IdThanhToan, Guid IdTaiKhoan)
     {
         var hoaDon = new HoaDon();

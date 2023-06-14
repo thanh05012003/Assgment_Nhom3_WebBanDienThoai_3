@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "oxOv9tfL5CIjhmPMdqetbyFvwxU9VTJP3kvH+CAwIV4=",
+  "Hash": "zdq8RerscqX8UzJd5IqG74DQZ1/Ou3B7AY4zRKYQ7Ys=",
   "Source": "AppAPI",
   "BasePath": "_content/AppAPI",
   "Mode": "Default",
@@ -13406,23 +13406,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\z4371019359543_d68918d31118cbb13f12a9e8ef1f150a.jpg"
-    },
-    {
-      "Identity": "C:\\Users\\ADMIN\\Downloads\\XinDay - Copy\\XinDay - Copy\\XinDay - Copy\\Assgment_Nhom3_WebBanDienThoai\\Assgment_Nhom3_WebBanDienThoai\\wwwroot\\js\\GetDistricts.js",
-      "SourceId": "Assgment_Nhom3_WebBanDienThoai",
-      "SourceType": "Project",
-      "ContentRoot": "C:\\Users\\ADMIN\\Downloads\\XinDay - Copy\\XinDay - Copy\\XinDay - Copy\\Assgment_Nhom3_WebBanDienThoai\\Assgment_Nhom3_WebBanDienThoai\\wwwroot\\",
-      "BasePath": "_content/Assgment_Nhom3_WebBanDienThoai",
-      "RelativePath": "js/GetDistricts.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\js\\GetDistricts.js"
     },
     {
       "Identity": "C:\\Users\\ADMIN\\Downloads\\XinDay - Copy\\XinDay - Copy\\XinDay - Copy\\Assgment_Nhom3_WebBanDienThoai\\Assgment_Nhom3_WebBanDienThoai\\wwwroot\\js\\site.js",

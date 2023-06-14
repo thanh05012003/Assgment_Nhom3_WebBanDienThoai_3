@@ -10,7 +10,7 @@ public class HoaDon
 
     public string? HoVaTen { get; set; }
 
-    public int? SDT { get; set; }
+    public string SDT { get; set; }
 
     public string? DiaChi { get; set; }
 
