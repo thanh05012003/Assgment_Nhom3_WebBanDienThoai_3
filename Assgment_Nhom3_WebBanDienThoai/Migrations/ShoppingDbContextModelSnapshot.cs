@@ -357,8 +357,9 @@ namespace Assgment_Nhom3_WebBanDienThoai.Migrations
                     b.Property<DateTime>("NgayThanhToan")
                         .HasColumnType("datetime2");
 
-                    b.Property<int?>("SDT")
-                        .HasColumnType("int");
+                    b.Property<string>("SDT")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
 
                     b.Property<decimal?>("TongTien")
                         .HasColumnType("decimal(18,2)");

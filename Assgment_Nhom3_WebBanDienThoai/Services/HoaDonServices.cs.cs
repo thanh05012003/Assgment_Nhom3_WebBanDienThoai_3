@@ -42,7 +42,7 @@ public class HoaDonServices : IHoaDonServices
         }
     }
 
-    public List<HoaDon> GetAllHoaDons()
+    public IEnumerable<HoaDon> GetAllHoaDons()
     {
         return _context.HoaDons.ToList();
     }

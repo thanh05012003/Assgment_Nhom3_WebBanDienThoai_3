@@ -57,23 +57,18 @@
                     <li>
                         <a asp-area="Admin" asp-controller="Imei" asp-action="Index">Them moi dien thoai</a>
                     </li>
+                    <li>
+                        <a asp-area="Admin" asp-controller="ThongKe" asp-action="showhd">Hoá đon</a>
+                    </li>
                 </ul>
             </li>
-            <li class="nav-item dropdown">
-                <a class="dropdown-toggle" asp-area="Admin" asp-controller="AdminRole" asp-action="Index">
-                    <span class="icon-holder">
-                        <i class="anticon anticon-hdd"></i>
-                    </span>
-                    <span class="title">Quản Lý Chuc Vu</span>
-
-                </a>
-            </li>
+            
             <li class="nav-item dropdown">
                 <a class="dropdown-toggle" href="javascript:void(0);">
                     <span class="icon-holder">
                         <i class="anticon anticon-form"></i>
                     </span>
-                    <span class="title">Doanh Số</span>
+                    <a asp-area="Admin" asp-controller="ThongKe" asp-action="Index">Thống Kê</a>
                     <span class="arrow">
                         <i class="arrow-icon"></i>
                     </span>

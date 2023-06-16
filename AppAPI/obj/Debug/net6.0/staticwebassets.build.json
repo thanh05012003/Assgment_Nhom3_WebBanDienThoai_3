@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "zdq8RerscqX8UzJd5IqG74DQZ1/Ou3B7AY4zRKYQ7Ys=",
+  "Hash": "U4pPFc+OQvvdQQtUJP6w4Ex3mbebbN5CnE+U6AzlAfQ=",
   "Source": "AppAPI",
   "BasePath": "_content/AppAPI",
   "Mode": "Default",
@@ -13372,6 +13372,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\ny4.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\ADMIN\\Downloads\\XinDay - Copy\\XinDay - Copy\\XinDay - Copy\\Assgment_Nhom3_WebBanDienThoai\\Assgment_Nhom3_WebBanDienThoai\\wwwroot\\img\\OIP.jpg",
+      "SourceId": "Assgment_Nhom3_WebBanDienThoai",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\Users\\ADMIN\\Downloads\\XinDay - Copy\\XinDay - Copy\\XinDay - Copy\\Assgment_Nhom3_WebBanDienThoai\\Assgment_Nhom3_WebBanDienThoai\\wwwroot\\",
+      "BasePath": "_content/Assgment_Nhom3_WebBanDienThoai",
+      "RelativePath": "img/OIP.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\OIP.jpg"
     },
     {
       "Identity": "C:\\Users\\ADMIN\\Downloads\\XinDay - Copy\\XinDay - Copy\\XinDay - Copy\\Assgment_Nhom3_WebBanDienThoai\\Assgment_Nhom3_WebBanDienThoai\\wwwroot\\img\\tải xuống.png",
